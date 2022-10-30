@@ -1,9 +1,10 @@
-.intro__list {
+.place__url-heading {
   font-weight: 400;
   font-size: 12px;
-  line-height: 150%;
+  line-height: 100%;
   font-family: Inter, Arial, Helvetica, sans-serif;
   margin: 0;
   padding: 0;
-  list-style: none;
+  letter-spacing: 2px;
+  color: #AAA;
 }

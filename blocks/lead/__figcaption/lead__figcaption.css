@@ -15,7 +15,7 @@
   }
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 400px) {
   .lead__figcaption {
     padding: 0 16px;
   }
