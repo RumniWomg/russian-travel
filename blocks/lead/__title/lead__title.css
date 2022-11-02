@@ -35,5 +35,8 @@
 @media screen and (max-width: 400px) {
   .lead__title {
     font-size: 40px;
+    line-height: 110%;
+    margin-top: 48px;
+    padding: 0;
   }
 }

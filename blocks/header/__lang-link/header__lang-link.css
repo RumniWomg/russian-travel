@@ -4,6 +4,7 @@
   line-height: 28px;
   font-family: Inter, Arial, Helvetica, sans-serif;
   text-decoration: none;
+  color: white;
 }
 .header__lang-link:hover {
   opacity: .45;
