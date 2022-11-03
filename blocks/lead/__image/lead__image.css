@@ -7,31 +7,17 @@
 @media screen and (max-width: 1024px) {
   .lead__image {
     margin-top: 56px;
-    max-height: 580px;
-    max-width: 928px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .lead__image {
     padding: 0;
-    max-width: 768px;
-    max-height: 480px;
-  }
-}
-
-@media screen and (max-width: 550px) {
-  .lead__image {
-    padding: 0;
-    max-width: 425px;
-    max-height: 100%;
   }
 }
 
 @media screen and (max-width: 400px) {
   .lead__image {
     margin-top: 40px;
-    max-width: 320px;
-    max-height: 200px;
   }
 }
